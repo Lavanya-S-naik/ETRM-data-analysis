@@ -17,7 +17,10 @@ The goal is to:
 - Create derived metrics such as **Notional (Volume × Price)**.  
 - Perform **EDA** to understand trends, distributions, and trade patterns.  
 - Generate **5+ professional charts** saved into an `output/` folder.  
-- Produce **summary reports** in Excel and Markdown.  
+- Produce **summary reports** in Excel and Markdown.
+
+## Architecture
+![System Architecture](image/Architecture.drawio.png)
 
 ---
 
