@@ -19,6 +19,8 @@ The goal is to:
 - Generate **5+ professional charts** saved into an `output/` folder.  
 - Produce **summary reports** in Excel and Markdown.
 
+  ---
+
 ## Architecture
 ![System Architecture](image/Architecture.drawio.png)
 
