@@ -123,21 +123,21 @@ Inside the `output/` folder you will find:
 ---
 
 ## ▶️ How to Run the Project
-1. Clone this repository:
-   git clone https://github.com/your-username/etrm-data-analysis.git
-   cd etrm-data-analysis
+1. Clone this repository:<br>
+   git clone https://github.com/your-username/etrm-data-analysis.git<br>
+   cd etrm-data-analysis<br>
 
-2. Create and activate a virtual environment:
-    python -m venv venv
-    venv\Scripts\activate   # Windows
-    source venv/bin/activate   # macOS/Linux
+2. Create and activate a virtual environment:<br>
+    python -m venv venv<br>
+    venv\Scripts\activate   # Windows<br>
+    source venv/bin/activate   # macOS/Linux<br>
 
-3. Run the following command to install all required libraries:
-   pip install pandas matplotlib seaborn numpy lxml openpyxl
+3. Run the following command to install all required libraries:<br>
+   pip install pandas matplotlib seaborn numpy lxml openpyxl<br>
 
-4. Launch Jupyter Notebook:
-   jupyter notebook
-   Open etrm_analysis.ipynb and run the cells.
+4. Launch Jupyter Notebook:<br>
+   jupyter notebook<br>
+   Open etrm_analysis.ipynb and run the cells.<br>
 
 5. Check results in the output/ folder.
 
