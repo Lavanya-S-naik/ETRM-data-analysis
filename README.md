@@ -24,7 +24,7 @@ The goal is to:
 ## Architecture
 ![System Architecture](image/Architecture.drawio.png)
 
----
+  ---
 
 ## 📂 Dataset Details
 The dataset is stored in the `data/` folder and contains trade records in various formats.  
@@ -147,4 +147,4 @@ Inside the `output/` folder you will find:
 5. Check results in the output/ folder.
 
 
-   
+**Enjoy the coding!!!!....**   
